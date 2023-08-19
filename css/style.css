@@ -1,0 +1,348 @@
+/* body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} */
+#topcontainer {
+    background: url('../img/header.png') no-repeat;
+    background-size: cover;
+    position: relative;
+    width:100%;
+    overflow: hidden;
+}
+#row-first {
+    background: rgb(1, 1, 63);
+}
+
+.nav-item .nav-link{
+   color:#fff;
+}
+
+#title h1{
+    color: #fff;
+    text-transform: capitalize;
+    margin: 140px 0px 0px 96px;
+    font-size: 88px;
+    font-weight: bolder;
+}
+#title pre{
+    font-size: 16px;
+    color: #fff;
+    margin-left: -108px;
+    margin-top: 31px;
+}
+#title .btn{
+    display: block;
+    margin:8px 0px 110px 200px;
+    font-size: 20px;
+    color: #fff;
+    text-transform: capitalize;
+    background: rgb(1, 1, 63);
+    width: 200px;
+    border: 2px solid #fff;
+    border-radius: 50px;
+    transition: 0.5s;
+}
+#title .btn:hover{
+    background: crimson;
+}
+
+
+#popularmenu{
+    background: url('../img/popularmenu.png') no-repeat;
+    background-size: cover;
+    width:100%;
+    overflow: hidden;
+}
+#popular{
+    margin-top: 50px;
+    color:#fff;
+    text-transform: capitalize;
+}
+#cake{
+    margin-top: 20px;
+    text-align: center;
+    color:#fff;
+}
+#auto{
+    margin-left: 49px;
+    margin-top: -22px;
+}
+#popular .one{
+    width: 64px;
+    height: 13px;
+    position: relative;
+    top: 113px;
+    left: 74px;
+}
+#popular .two{
+    height: 109px;
+    position: relative;
+    top: -22px;
+    left: 953px;
+}
+#popular .three{
+    width: 83px;
+    height: 50px;
+    position: relative;
+    top: -55px;
+    left: 16px;
+}
+ .cakeone{
+    width: 164px;
+}
+ .caketwo{
+    width: 164px;
+}
+.cakethree{
+    width: 164px;
+}
+
+.four{
+    width: 65px;
+    position: relative;
+    top: 36px;
+    left: 1000px;
+}
+ .five{
+    width: 109px;
+    position: relative;
+    top: -71px;
+}
+ .six{
+    width: 100px;
+    position: relative;
+    top: -490px;
+    left: 984px;
+    transform: rotate(-90deg);
+}
+#anil{
+    background: url('../img/hello.png') no-repeat;
+    background-size: cover;
+    width:100%;
+    overflow: hidden;
+}
+.seven{
+    width: 149px;
+    position: relative;
+    top: -56px;
+    left: 42px;
+}
+.eight{
+    position: relative;
+    top: 113px;
+    left: -74px;
+    width: 373px;
+}
+.nine{
+    margin-top: 137px;
+    position: relative;
+    top: -22px;
+}
+.ten{
+    position: relative;
+    top: 27px;
+    left: 440px;
+    width: 53px;
+}
+.eleven{
+    position: relative;
+    top: -14px;
+    left: -116px;
+}
+.twelve{
+    position: relative;
+    top: 462px;
+    left: 231px;
+    width: 149px;
+}
+#anil h1{
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 61px;
+    margin-top: -55px;
+}
+#anil p{
+    margin-top: 14px;
+    margin-bottom: 1rem;
+    font-size: x-large;
+}
+#anil .btn{
+    display: block;
+    margin: 74px 0px 0px 86px;
+    font-size: 20px;
+    color: #fff;
+    text-transform: capitalize;
+    background: rgb(1, 1, 63);
+    width: 200px;
+    border: 2px solid #fff;
+    border-radius: 50px;
+    transition: 0.5s;
+}
+#anil .btn:hover{
+    background: crimson;
+}
+
+#statics{
+    background: url('../img/popularmenu.png') no-repeat;
+    background-size: cover;
+    width:100%;
+    overflow: hidden;
+}
+.threteen{
+    width: 125px;
+    position: relative;
+    top: 30px;
+    left: -379px;
+}
+.forteen{
+    width:80px;
+    position: relative;
+    top: 168px;
+    left: -489px;
+}
+.fifteen{
+    width: 124px;
+    position: relative;
+    top: -118px;
+    margin: -26px;
+    left: 498px;
+}
+#statics h1{
+    text-transform: capitalize;
+    font-size: 62px;
+}
+.circle{
+    width:200px;
+    height: 200px;
+    border: 5px solid #fff;
+    border-radius: 50%;
+    text-align: center;
+    text-transform: capitalize;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.circle a {
+    padding: 0;
+    margin-top: -12px;
+    display: block;
+    font-size: 48px;
+    color: #fff;
+    text-decoration: none;
+    background-color: transparent;
+}
+.sixteen{
+    position: relative;
+    top: 19px;
+    left: 208px;
+    width: 129px;
+}
+.seventeen{
+    width: 151px;
+    position: relative;
+    top: 0px;
+    left: 478px;
+}
+.eighteen{
+    width: 60px;
+    position: relative;
+    left: 641px
+}
+
+#phoebe{
+    background: url('../img/3544220.png') no-repeat;
+    background-size: cover;
+    width:100%;
+    overflow: hidden;
+    position: relative;
+}
+#phoebe:after{
+    content:"";
+    background: rgba(4, 4, 119, 0.689);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height:100%;
+}
+.girls{
+    text-align: center;
+    color: #fff;
+    margin: 198px;
+    z-index: 1;
+}
+.girls h1{
+    font-size: 25px;
+    text-transform: capitalize;
+}
+.girls p{
+    font-size: 18px;
+    text-transform: capitalize;
+}
+
+
+#search{
+    background: url('../img/shor.png') no-repeat;
+    background-size: cover;
+    width:100%;
+    overflow: hidden;
+    position: relative;
+}
+.searchbox{
+    text-align: center;
+    margin: 172px;
+}
+.searchbox h1{
+    font-size: 62px;
+    text-transform: capitalize;
+}
+.searchbox p{
+    margin-top: 0;
+    font-size: 22px;
+    margin-bottom: 40px;
+}
+.searchbox input[type='search']{
+    border:0px solid #fff;
+    width: 435px;
+    padding: 9px;
+    border-radius: 20px;
+}
+.searchbox input[type='submit']{
+    background: rgb(3, 3, 47);
+    color:#fff;
+    width: 150px;
+    padding: 9px;
+    border-radius: 20px;
+    margin-left:-60px;
+    transition: 0.5s;
+}
+.searchbox input[type='submit']:hover{
+    background: crimson;
+}
+#footerrow{
+    padding: 93px;
+}
+.footer{
+    padding: 25px;
+}
+.footer h4{
+    text-transform: capitalize;
+    color: #fff;
+}
+.footer p{
+    text-transform: capitalize;
+    color: #fff;
+}
+.footer i{
+    text-transform: capitalize;
+    color: #fff;
+    font-size: 25px;
+    margin-left: 5px;
+    transition: 0.5s;
+}
+.footer i:hover{
+    transform: scale(1.2);
+}
